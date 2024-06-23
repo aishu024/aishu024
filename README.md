@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @aishu024
 - 👀 I’m interested in learning various technologies
-- 🌱 I’m currently learning web development
+- 🌱 Pursuing BE CSE
+- Final year student.
   
 
 
